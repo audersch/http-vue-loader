@@ -1,0 +1,24 @@
+{
+  "name": "http-vue-loader",
+  "description": "http-vue-loader",
+  "main": [
+    "src/httpVueLoader.js"
+  ],
+  "moduleType": [],
+  "authors": [
+    "Franck Freiburger"
+    "sTeFaN Audersch"
+  ],
+  "homepage": "https://github.com/FranckFreiburger/http-vue-loader",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^2.1"
+  }
+}
