@@ -4,11 +4,16 @@
   "main": [
     "src/httpVueLoader.js"
   ],
-  "moduleType": [],
-  "authors": [
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "vue.js"
+  ],  "authors": [
     "Franck Freiburger"
     "sTeFaN Audersch"
   ],
+  "license": "MIT",
   "homepage": "https://github.com/FranckFreiburger/http-vue-loader",
   "private": false,
   "ignore": [
